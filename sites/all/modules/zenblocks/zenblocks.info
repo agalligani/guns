@@ -1,0 +1,5 @@
+name = zenblocks
+description = 'custom blocks for the zen theme'
+configure = admin/config/user-interface/superfish
+core = 7.x
+package = myzen
